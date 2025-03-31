@@ -97,14 +97,14 @@ You have several options to run or explore this project:
 1. **View directly on GitHub**: 
    - The notebook is viewable directly on GitHub with all outputs and visualizations.
 
-2. **Run on Google Colab**:
-   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/fraud-detection/blob/main/Fraud_Detection.ipynb)
+2. **Run on Google Colab/Kaggle**:
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/22f3002045/Fraud-Detection/blob/main/Fraud_Detection.ipynb)
    - Click the badge above to open in Google Colab
 
 3. **Run locally**:
    ```bash
    # Clone the repository
-   git clone https://github.com/yourusername/fraud-detection.git
+   git clone https://github.com/22f3002045/Fraud-Detection.git
    cd fraud-detection
    
    # Create and activate virtual environment (optional)
