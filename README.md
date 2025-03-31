@@ -98,7 +98,7 @@ You have several options to run or explore this project:
    - The notebook is viewable directly on GitHub with all outputs and visualizations.
 
 2. **Run on Google Colab/Kaggle**:
-   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/22f3002045/Fraud-Detection/blob/main/Fraud_Detection.ipynb)
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/22f3002045/Fraud-Detection/blob//fraud-detection-by-adarshom-panigrahi.ipynb)
    - Click the badge above to open in Google Colab
 
 3. **Run locally**:
@@ -122,8 +122,8 @@ You have several options to run or explore this project:
 
 ```
 fraud-detection/
-├── Fraud_Detection.ipynb  # The complete analysis, EDA, and modeling notebook
-├── Fraud.csv              # The dataset file
+├── fraud-detection-by-adarshom-panigrahi.ipynb  # The complete analysis, EDA, and modeling notebook
+├── Fraud.csv              # The dataset file, Alternative name can be used by chaning the load dataset code
 └── README.md              # Project documentation
 ```
 
